@@ -1,0 +1,54 @@
+*{
+  font-weight: 200;
+}
+body{
+  font-family: "Karma";
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.menu-icon, .email, .title {
+  padding: 8px;
+}
+
+.menu-icon {
+  cursor: pointer;
+}
+
+.email {
+  text-align: right;
+}
+
+.title {
+  text-align: center;
+}
+.h1{
+  text-align: center;
+}
+.bolo{
+  padding-top: 50px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  height: 100px;
+}
+#style-container{
+  text-align: center;
+  line-height: 40px;
+}
+.poyon{
+  padding-top: 650px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  height: 100px;
+}
